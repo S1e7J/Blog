@@ -1,0 +1,18 @@
+current directory: /home/checho/Blog/.bundle/ruby/3.5.0+0/gems/racc-1.8.1/ext/racc/cparse
+/home/checho/.rvm/rubies/ruby-head/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/checho/Blog/.bundle/ruby/3.5.0+0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250117-35119-kodrhb sitelibdir\=./.gem.20250117-35119-kodrhb clean
+
+current directory: /home/checho/Blog/.bundle/ruby/3.5.0+0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250117-35119-kodrhb sitelibdir\=./.gem.20250117-35119-kodrhb
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/checho/Blog/.bundle/ruby/3.5.0+0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250117-35119-kodrhb sitelibdir\=./.gem.20250117-35119-kodrhb install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20250117-35119-kodrhb/racc
+
+current directory: /home/checho/Blog/.bundle/ruby/3.5.0+0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250117-35119-kodrhb sitelibdir\=./.gem.20250117-35119-kodrhb clean
